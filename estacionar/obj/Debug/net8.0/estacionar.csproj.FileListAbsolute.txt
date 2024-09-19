@@ -1,0 +1,12 @@
+C:\Users\Lucas\.ms-ad\Desktop\projetos-git-c#\sistema-de-estacionamento\estacionar\bin\Debug\net8.0\estacionar.deps.json
+C:\Users\Lucas\.ms-ad\Desktop\projetos-git-c#\sistema-de-estacionamento\estacionar\bin\Debug\net8.0\estacionar.dll
+C:\Users\Lucas\.ms-ad\Desktop\projetos-git-c#\sistema-de-estacionamento\estacionar\bin\Debug\net8.0\estacionar.pdb
+C:\Users\Lucas\.ms-ad\Desktop\projetos-git-c#\sistema-de-estacionamento\estacionar\obj\Debug\net8.0\estacionar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas\.ms-ad\Desktop\projetos-git-c#\sistema-de-estacionamento\estacionar\obj\Debug\net8.0\estacionar.AssemblyInfoInputs.cache
+C:\Users\Lucas\.ms-ad\Desktop\projetos-git-c#\sistema-de-estacionamento\estacionar\obj\Debug\net8.0\estacionar.AssemblyInfo.cs
+C:\Users\Lucas\.ms-ad\Desktop\projetos-git-c#\sistema-de-estacionamento\estacionar\obj\Debug\net8.0\estacionar.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\.ms-ad\Desktop\projetos-git-c#\sistema-de-estacionamento\estacionar\obj\Debug\net8.0\estacionar.sourcelink.json
+C:\Users\Lucas\.ms-ad\Desktop\projetos-git-c#\sistema-de-estacionamento\estacionar\obj\Debug\net8.0\estacionar.dll
+C:\Users\Lucas\.ms-ad\Desktop\projetos-git-c#\sistema-de-estacionamento\estacionar\obj\Debug\net8.0\refint\estacionar.dll
+C:\Users\Lucas\.ms-ad\Desktop\projetos-git-c#\sistema-de-estacionamento\estacionar\obj\Debug\net8.0\estacionar.pdb
+C:\Users\Lucas\.ms-ad\Desktop\projetos-git-c#\sistema-de-estacionamento\estacionar\obj\Debug\net8.0\ref\estacionar.dll
